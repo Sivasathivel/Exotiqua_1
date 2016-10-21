@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exotiqua</string>
+    <string name="address">
+        For all your aquatic solutions, contact:\n
+        41 Powell avenue, ottawa, canada.\n
+        email:contact @ exotiqua.com
+    </string>
+</resources>
